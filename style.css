@@ -1,0 +1,292 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-image {
+
+    position: relative;
+    border-radius: 16px;
+    width: 1320px;
+    padding: 10px;
+    height: 600px;
+    text-align: center;
+    margin-left: 300px;
+    max-width: 68%;
+    background-image: url(Banner\ Image.png);
+
+}
+
+.hero-content {
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+
+
+}
+
+.hero-content-inner h4 {
+    color: #fff;
+    font-size: 32px;
+    line-height: normal;
+
+
+}
+
+.hero-content-inner h2 {
+    font-size: 72px;
+    line-height: 95px;
+    color: #fff;
+}
+
+.container {
+    width: 75%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.section-heading {
+    max-width: 1440px;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+.section-heading h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.section-heading h4 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.section-heading h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#new {
+    padding: 100px 0;
+}
+
+.image {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-left: 300px;
+}
+
+.hero-image2 {
+    position: relative;
+    border-radius: 16px;
+    width: 1320px;
+    padding: 10px;
+    height: 600px;
+    text-align: center;
+    margin-left: 300px;
+    flex-shrink: 0;
+    background-image: url(Vectorrr.png);
+}
+
+.text {
+    color: #fff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.text1 {
+    color: #FFF;
+    text-align: left;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    line-height: 200px;
+
+}
+
+.head {
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    text-align: left;
+}
+
+.place {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 60px;
+
+}
+
+.rong {
+    color: #F00;
+}
+
+.btn {
+    color: #FFF;
+    background: #F00;
+    border: none;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: normal;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+.btn1 {
+    color: #FFF;
+    background: #F00;
+}
+
+.vanue {
+    text-align: center;
+    justify-content: center;
+    width: 1320px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 300px;
+}
+
+.container {
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .bnt-tit {
+    margin-bottom: 32px;
+    width: 322px;
+}
+
+.banner .bnt-tit h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.banner .bnt-tit h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.banner .bnt-tit p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 328;
+    line-height: 26px;
+}
+
+.banner .bng-img img {
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 360px;
+}
+
+.bng-img .img {
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 360px;
+}
+
+.bng-img {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+}
+
+.bnt-text h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holi-text {
+    max-width: 1000px;
+    text-align: center;
+    margin: 20px auto;
+  
+}
+
+.holi-text h2 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.holi-text h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.sectio-content {
+    display: flex;
+    background:#fff ;
+    width: 1300px;
+    height: 5335px;
+}
+#holi {
+display: inline;
+}
